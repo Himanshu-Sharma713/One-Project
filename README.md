@@ -61,10 +61,6 @@ This project is inspired by **Dr. A.P.J. Abdul Kalam’s** incredible contributi
 
 Feel free to fork this project, add your own style, or build a tribute to someone else who inspires you!
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 ### 🔗 Connect with Me
